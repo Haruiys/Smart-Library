@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Smart Library IDN",
+  "description": "Sistem Perpustakaan Pintar dengan Scan QR Buku dan Verifikasi Selfie untuk IDN Boarding School Solo.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
